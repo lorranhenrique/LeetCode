@@ -2,3 +2,4 @@
 1-two-sum|Easy|1740625200000
 9-palindrome-number|Easy|1740711600000
 20-valid-parentheses|Easy|1740970800000
+14-longest-common-prefix|Easy|1740970800000
