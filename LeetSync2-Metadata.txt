@@ -3,3 +3,4 @@
 9-palindrome-number|Easy|1740711600000
 20-valid-parentheses|Easy|1740970800000
 14-longest-common-prefix|Easy|1740970800000
+28-find-the-index-of-the-first-occurrence-in-a-string|Easy|1743476400000
