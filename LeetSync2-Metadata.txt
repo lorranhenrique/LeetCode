@@ -6,3 +6,4 @@
 28-find-the-index-of-the-first-occurrence-in-a-string|Easy|1743476400000
 2873-maximum-value-of-an-ordered-triplet-i|Easy|1743562800000
 70-climbing-stairs|Easy|1743649200000
+21-merge-two-sorted-lists|Easy|1743735600000
